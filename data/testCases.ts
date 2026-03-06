@@ -1,5 +1,3 @@
-// Test data for all 6 test cases
-// Each entry drives a complete test scenario — no code duplication required
 
 export interface TestCase {
   id: number;
